@@ -8,6 +8,6 @@
  */
 
 * {
-	background: red;
-	color: yellow;
+	background: red !important;
+	color: yellow !important;
 }
