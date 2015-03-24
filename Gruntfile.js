@@ -9,14 +9,36 @@ module.exports = function(grunt) {
         csslintrc: '.csslintrc'
       },
       dist: {
-        src: ['css/*.css']
+        src: ['src/*.css']
       }
+    },
+    // configure copy task
+    copy: {
+      dist: {
+        expand: true,
+        flatten: true,
+        filter: 'isFile',
+        src: ['src/**'],
+        dest: 'dist/'
+      }
+    },
+    // configure CSSMin task
+    cssmin: {
+        dist: {
+          banner: '/*Hot Dog Stand v0.1.0 https://github.com/steverichey/hot-dog-stand MIT*/',
+          files: [{
+            src: ['dist/hotdogstand.css'],
+            dest: 'dist/hotdogstand.min.css'
+          }]
+        }
     }
   });
 
-  // load CSSLint task
+  // load tasks
   grunt.loadNpmTasks('grunt-contrib-csslint');
+  grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
 
-  // Default task using CSSLint
-  grunt.registerTask('default', ['csslint']);
+  // Default task
+  grunt.registerTask('default', ['csslint', 'copy', 'cssmin']);
 };

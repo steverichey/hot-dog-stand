@@ -2,7 +2,7 @@
 
 This is [Hot Dog Stand](https://github.com/steverichey/hot-dog-stand), a simple, responsive, mobile-first, agonizing, front-end framework for developing the next generation of fully responsive web apps. Inspired by the original [Windows 3.1 Hot Dog Stand theme](http://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/).
 
-Hot Dog Stand is only 279 bytes (124 bytes minimized) and only four lines of code, making it the lightest CSS framework around.
+Hot Dog Stand is only 279 bytes (48 bytes minimized) and only four lines of code, making it the lightest CSS framework around.
 
 You can see Hot Dog Stand in action at the [official site](http://steverichey.github.io/hot-dog-stand/).
 
