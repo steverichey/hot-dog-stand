@@ -255,6 +255,5 @@ footer {
 }
 
 * {
-  border: none;
-}
+  border: 0;
 }
