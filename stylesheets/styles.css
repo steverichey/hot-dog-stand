@@ -51,7 +51,6 @@ a small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -66,8 +65,6 @@ code, pre {
 pre {
   padding:8px 15px;
   background: #f8f8f8;  
-  border-radius:5px;
-  border:1px solid #e5e5e5;
   overflow-x: auto;
 }
 
@@ -79,7 +76,6 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
 }
 
 dt {
@@ -115,16 +111,12 @@ header ul {
   background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   
-  border-radius:5px;
-  border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
   width:270px;
 }
 
 header li {
   width:89px;
   float:left;
-  border-right:1px solid #d2d2d2;
   height:40px;
 }
 
@@ -145,7 +137,6 @@ strong {
 
 header ul li + li {
   width:88px;
-  border-left:1px solid #fff;
 }
 
 header ul li + li + li {
@@ -201,8 +192,6 @@ footer {
   }
   
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
@@ -252,8 +241,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-
-* {
-  border: 0;
 }
