@@ -1,5 +1,6 @@
 # [Hot Dog Stand](http://steverichey.github.io/hot-dog-stand/)
-[![Build Status](https://travis-ci.org/steverichey/hot-dog-stand.svg?branch=master)](https://travis-ci.org/steverichey/hot-dog-stand) ![Bower Version](https://img.shields.io/bower/v/hotdogstand.svg?style=flat) ![Mobile Status](https://img.shields.io/badge/mobile-first-yellow.svg?style=flat) ![End Status](https://img.shields.io/badge/front-end-red.svg?style=flat) ![Responsive Status](https://img.shields.io/badge/responsive-100%-yellow.svg?style=flat) ![Dog Status](https://img.shields.io/badge/hot-dog-red.svg?style=flat)
+[![Build Status](https://travis-ci.org/steverichey/hot-dog-stand.svg?branch=master)](https://travis-ci.org/steverichey/hot-dog-stand) ![Bower Version](https://img.shields.io/bower/v/hotdogstand.svg?style=flat) [![NPM Version](https://img.shields.io/npm/v/hot-dog-stand.svg?style=flat)](https://www.npmjs.com/package/hot-dog-stand)
+![Mobile Status](https://img.shields.io/badge/mobile-first-yellow.svg?style=flat) ![End Status](https://img.shields.io/badge/front-end-red.svg?style=flat) ![Responsive Status](https://img.shields.io/badge/responsive-100%-yellow.svg?style=flat) ![Dog Status](https://img.shields.io/badge/hot-dog-red.svg?style=flat)
 
 This is [Hot Dog Stand](https://github.com/steverichey/hot-dog-stand), a simple, responsive, mobile-first, agonizing, front-end framework for developing the next generation of fully responsive web apps. Inspired by the original [Windows 3.1 Hot Dog Stand theme](http://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/).
 
@@ -17,6 +18,14 @@ Add `hotdogstand.css` or `hotdogstand.min.css` to your web app's folders, and th
 
 ````
 <link type="text/css" rel="stylesheet" href="hotdogstand.css" />
+````
+You can also install via [Bower](http://bower.io/):
+````
+bower install hotdogstand
+````
+Or, you can use [NPM](https://www.npmjs.com/package/hot-dog-stand):
+````
+npm install hot-dog-stand
 ````
 
 ## Directory Structure
