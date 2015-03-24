@@ -1,4 +1,4 @@
-# [Hot Dog Stand](http://steverichey.github.io/hot-dog-stand/) ![Build Status](https://img.shields.io/badge/build-passing-green.svg?style=flat)
+# [Hot Dog Stand](http://steverichey.github.io/hot-dog-stand/) ![Build Status](https://img.shields.io/badge/build-passing-red.svg?style=flat) ![Mobile Status](https://img.shields.io/badge/mobile-first-yellow.svg?style=flat) ![Build Status](https://img.shields.io/badge/front-end-red.svg?style=flat) ![Build Status](https://img.shields.io/badge/responsive-100%-yellow.svg?style=flat)
 
 This is [Hot Dog Stand](https://github.com/steverichey/hot-dog-stand), a simple, responsive, mobile-first, agonizing, front-end framework for developing the next generation of fully responsive web apps. Inspired by the original [Windows 3.1 Hot Dog Stand theme](http://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/).
 
