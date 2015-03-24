@@ -1,4 +1,4 @@
-# [Hot Dog Stand](http://steverichey.github.io/hot-dog-stand/) [![Build Status](https://travis-ci.org/steverichey/hot-dog-stand.svg?branch=master)](https://travis-ci.org/steverichey/hot-dog-stand) ![Mobile Status](https://img.shields.io/badge/mobile-first-yellow.svg?style=flat) ![Build Status](https://img.shields.io/badge/front-end-red.svg?style=flat) ![Build Status](https://img.shields.io/badge/responsive-100%-yellow.svg?style=flat)
+# [Hot Dog Stand](http://steverichey.github.io/hot-dog-stand/) [![Build Status](https://travis-ci.org/steverichey/hot-dog-stand.svg?branch=master)](https://travis-ci.org/steverichey/hot-dog-stand) ![Mobile Status](https://img.shields.io/badge/mobile-first-yellow.svg?style=flat) ![End Status](https://img.shields.io/badge/front-end-red.svg?style=flat) ![Responsive Status](https://img.shields.io/badge/responsive-100%-yellow.svg?style=flat) ![Dog Status](https://img.shields.io/badge/hot-dog-red.svg?style=flat)
 
 This is [Hot Dog Stand](https://github.com/steverichey/hot-dog-stand), a simple, responsive, mobile-first, agonizing, front-end framework for developing the next generation of fully responsive web apps. Inspired by the original [Windows 3.1 Hot Dog Stand theme](http://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/).
 
@@ -43,4 +43,4 @@ Feedback is greatly appreciated! Help find bugs and suggest improvements or new 
 
 ## License
 
-&copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./license.md) for details.
+&copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://tldrlegal.com/license/mit-license). See [license.md](./license.md) for details.
