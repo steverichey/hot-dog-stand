@@ -43,4 +43,4 @@ Feedback is greatly appreciated! Help find bugs and suggest improvements or new 
 
 ## License
 
-&copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://en.wikipedia.org/wiki/MIT_License). See [license.md](./license.md) for details.
+&copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://tldrlegal.com/license/mit-license). See [license.md](./license.md) for details.
