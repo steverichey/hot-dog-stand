@@ -1,4 +1,7 @@
+---
 language: node_js
 node_js:
-- '0.10'
-script: sh test.sh
+ - "0.12"
+sudo: false
+script:
+ - npm test

@@ -4,7 +4,7 @@
   "description": "A simple, responsive, mobile-first, agonizing, front-end CSS framework for developing the next generation of fully responsive web apps.",
   "main": "hotdogstand.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt"
   },
   "repository": {
     "type": "git",
