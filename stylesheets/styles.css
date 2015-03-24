@@ -253,3 +253,8 @@ footer {
     color:#444;
   }
 }
+
+* {
+  border: none;
+}
+}
