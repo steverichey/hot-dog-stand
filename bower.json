@@ -1,0 +1,6 @@
+{
+  "name": "hotdogstand",
+  "version": "0.1.0",
+  "main": "dist/hotdogstand.css",
+  "keywords": ["hot", "dog", "stand"]
+}
