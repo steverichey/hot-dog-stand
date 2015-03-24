@@ -20,7 +20,8 @@ Add `hotdogstand.css` or `hotdogstand.min.css` to your web app's folders, and th
 
 ## Directory Structure
 
-* `css`: contains both regular and minified versions of Hot Dog Stand.
+* `src`: contains the source code for Hot Dog Stand
+* `dist`: contains the regular and minified distributions of Hot Dog Stand
 
 ## Browser Support
 
