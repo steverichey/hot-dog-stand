@@ -17,6 +17,8 @@ You can see Hot Dog Stand in action at the [official site](http://steverichey.gi
 
 ## Requirements
 
+[![Join the chat at https://gitter.im/steverichey/hot-dog-stand](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/steverichey/hot-dog-stand?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 There are no requirements for Hot Dog Stand.
 
 ## Get Started
