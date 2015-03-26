@@ -1,3 +1,4 @@
+// note that these settings are largely copied for gulp also
 module.exports = function(grunt) {
   // configure project for HDS
   grunt.initConfig({
