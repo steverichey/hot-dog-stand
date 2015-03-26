@@ -1,4 +1,9 @@
+# OS X Files
 .DS_Store
+
+# Node stuff
 npm-debug.log
 node_modules
+
+# Bower stuff
 bower_components
