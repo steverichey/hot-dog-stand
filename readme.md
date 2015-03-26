@@ -60,7 +60,7 @@ Feedback is greatly appreciated! Help find bugs and suggest improvements or new 
 
 ## Credits
 
-Hot Dog Icon created by Trevor Tarczynski from the [Noun Project](http://thenounproject.com/).
+Hot Dog Icon created by [Trevor Tarczynski](http://thenounproject.com/joylucktrevor/) from the [Noun Project](http://thenounproject.com/).
 
 ## License
 
