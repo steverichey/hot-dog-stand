@@ -58,6 +58,12 @@ Hot Dog Stand follows semver, so we won't introduce breaking changes in minor or
 
 Feedback is greatly appreciated! Help find bugs and suggest improvements or new features. Feel free to [open tickets](https://github.com/steverichey/hot-dog-stand/issues) for any changes you'd like!
 
+## Credits
+
+Hot Dog Icon created by Trevor Tarczynski from the [Noun Project](http://thenounproject.com/).
+
 ## License
 
 &copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://tldrlegal.com/license/mit-license). See [license.md](./license.md) for details.
+
+![Hot Dog](./icon.svg)
