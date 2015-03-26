@@ -34,6 +34,8 @@
     "gulp-copy": "0.0.2",
     "gulp-csslint": "^0.1.5",
     "gulp-cssmin": "^0.1.6",
-    "gulp-rename": "^1.2.0"
+    "gulp-rename": "^1.2.0",
+    "mocha": "^2.2.1",
+    "mocha-csslint": "0.0.4"
   }
 }
