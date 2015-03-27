@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/steverichey/hot-dog-stand",
   "devDependencies": {
+    "codeclimate-test-reporter": "0.0.4",
     "coveralls": "^2.11.2",
     "csslint": "^0.10.0",
     "grunt": "^0.4.5",
@@ -30,6 +31,7 @@
     "grunt-contrib-csslint": "^0.4.0",
     "grunt-contrib-cssmin": "^0.12.2",
     "grunt-coveralls": "^1.0.0",
+    "grunt-istanbul": "^0.5.0",
     "gulp": "^3.8.11",
     "gulp-copy": "0.0.2",
     "gulp-csslint": "^0.1.5",

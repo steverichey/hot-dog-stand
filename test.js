@@ -1,7 +1,7 @@
 "use strict";
 
-var assert = require("assert");
+var x = 1;
 
-it("should be equal", function() {
-	assert.equal(1, 1);
-});
+if (x === 1) {
+	return 0;
+}
