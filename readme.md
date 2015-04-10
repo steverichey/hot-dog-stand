@@ -68,3 +68,5 @@ Hot Dog Icon created by [Trevor Tarczynski](http://thenounproject.com/joylucktre
 &copy; 2015 [Steve Richey](https://github.com/steverichey). Shared under an [MIT license](https://tldrlegal.com/license/mit-license). See [license.md](./license.md) for details.
 
 <img src="https://cdn.rawgit.com/steverichey/hot-dog-stand/master/icon.svg" style="width: 128px; height: 128px"/>
+
+♨︎🐕
