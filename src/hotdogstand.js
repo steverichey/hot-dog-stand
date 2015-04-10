@@ -10,21 +10,25 @@
 (function() {
 	var root = this;
 
-	var HotDogStand = function() {
-		var everything = document.querySelector("*");
-		everything.style.setProperty ("background", "red", "important");
-		everything.style.setProperty ("color", "yellow", "important");
+	var hot = {
+		dog: {
+			get stand() {
+				var everything = document.querySelector("*");
+				everything.style.setProperty ("background", "red", "important");
+				everything.style.setProperty ("color", "yellow", "important");
+			}
+		}
 	}
 
 	// i stole this from PIXI
 	if (typeof exports !== 'undefined') {
         if (typeof module !== 'undefined' && module.exports) {
-            exports = module.exports = HotDogStand;
+            exports = module.exports = hot;
         }
-        exports.HotDogStand = HotDogStand;
+        exports.hot = hot;
     } else if (typeof define !== 'undefined' && define.amd) {
-        define(HotDogStand);
+        define(hot);
     } else {
-        root.HotDogStand = HotDogStand;
+        root.hot = hot;
     }
 }).call(this);
